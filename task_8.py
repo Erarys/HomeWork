@@ -13,3 +13,6 @@ def get_lower(text: list):
 logging.basicConfig(filename='test.log', level=logging.DEBUG, filemode="a")
 
 print(get_lower(get_text("text 1 2 3")))
+
+
+# Comment
